@@ -1,1 +1,2 @@
-My first readme
+My second readme
+i love to code in javascript
